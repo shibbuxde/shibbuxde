@@ -64,6 +64,8 @@ I enjoy building digital experiences, exploring technologies, and turning ideas 
 
 <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=shibbuxde&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=4DA8DA&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibbuxde&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=E6EDF3" alt="Most used languages" /> -->
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shibbuxde&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=4DA8DA&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak" />
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/shibbuxde?style=for-the-badge&color=1D4E89)
@@ -75,8 +77,6 @@ I enjoy building digital experiences, exploring technologies, and turning ideas 
 [![Languages](https://img.shields.io/badge/VIEW-LANGUAGE%20BREAKDOWN-1D4E89?style=for-the-badge&logo=github)](https://github.com/shibbuxde)
 
 </div>
-<img width="70%" src="https://streak-stats.demolab.com?user=shibbuxde&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=4DA8DA&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak" />
-
 </div>
 
 ---
